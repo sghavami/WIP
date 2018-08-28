@@ -1,0 +1,146 @@
+0 <td>Joanne Beaver</td> 
+
+1 <td>Primary Contact</td> 
+
+2 <td>beaverjjm@aol.com</td> 
+
+3 <td>2538395301</td> 
+
+4 <td>**                                        </td> 
+
+5 <td>Tom Burchard</td> 
+
+6 <td>Primary Licensor</td> 
+
+7 <td>tom.burchard@dcyf.wa.gov</td> 
+
+8 <td>425-917-7931</td> 
+
+9 <td>01/05/2018**                                        </td> 
+
+10 <td>Dale Beaver</td> 
+
+11 <td>Cleared</td> 
+
+12 <td>2015-12-02</td> 
+
+13 <td>Jennifer Gaurin</td> 
+
+14 <td>Approved</td> 
+
+15 <td>2018-06-06</td> 
+
+16 <td>Joanne Beaver</td> 
+
+17 <td>Approved</td> 
+
+18 <td>2018-05-04</td> 
+
+19 <td>03/03/2017**                                                </td> 
+
+20 <td>**                                                    10.9.3.6 Family Home Abbreviated Checklist  Rev. 09/19/2015**                                                </td> 
+
+21 <td><span id="j_id0:j_id1:j_id85:0:j_id92">**                                                        <a href="https://wa-del.my.salesforce.com/sfc/p/t00000008aPL/a/t00000004WNv/AmsEq9fRg99SlXW8OMK9MyKyqc1rt2rgGSjPKEboN.c" target="_blank">View</a></span>**                                                </td> 
+
+22 <td>03/03/2017**                                                </td> 
+
+23 <td>**                                                    10.9.1.1 Compliance Agreement Rev. 05/2012**                                                </td> 
+
+24 <td><span id="j_id0:j_id1:j_id85:1:j_id92">**                                                        <a href="https://wa-del.my.salesforce.com/sfc/p/t00000008aPL/a/t00000004ZWq/SghmNSdF3GMfpAKTiw30oUnwyjivVxb3jkSxfDHxnB0" target="_blank">View</a></span>**                                                </td> 
+
+25 <td>04/04/2016**                                                </td> 
+
+26 <td>**                                                    10.9.3.5 Family Home Checklist Rev. 09/19/2015**                                                </td> 
+
+27 <td><span id="j_id0:j_id1:j_id85:2:j_id92">**                                                        <a href="https://wa-del.my.salesforce.com/sfc/p/t00000008aPL/a/t00000004Wse/zBsXvCN8aksbHzMUoU4WobQoTrLjuTroyg4Xsrfz8ik" target="_blank">View</a></span>**                                                </td> 
+
+28 <td>03/23/2015**                                                </td> 
+
+29 <td>**                                                    10.9.1.1 Compliance Agreement Rev. 5/2012**                                                </td> 
+
+30 <td><span id="j_id0:j_id1:j_id85:3:j_id92">**                                                        <a href="https://wa-del.my.salesforce.com/sfc/p/t00000008aPL/a/t0000000EdzD/EptUlZvzqgDr38GYHco531Pud10MH8JpIh2tdAgeTEs" target="_blank">View</a></span>**                                                </td> 
+
+31 <td>03/23/2015**                                                </td> 
+
+32 <td>**                                                    10.9.3.6 Family Home Abbreviated Checklist  Rev. 06/18/2014**                                                </td> 
+
+33 <td><span id="j_id0:j_id1:j_id85:4:j_id92">**                                                        <a href="https://wa-del.my.salesforce.com/sfc/p/t00000008aPL/a/t00000004Qjs/JT1b3FFO2CEzTqwu.Ln2znIJKSstm9Lbs8kVPnwUG78" target="_blank">View</a></span>**                                                </td> 
+
+34 <td>08/15/2013**                                                </td> 
+
+35 <td>**                                                    10.9.3.6 Family Home Abbreviated Checklist  Rev. 01/12/2012**                                                </td> 
+
+36 <td><span id="j_id0:j_id1:j_id85:5:j_id92">**                                                        <a href="https://wa-del.my.salesforce.com/sfc/p/t00000008aPL/a/t00000004PIe/BXR9.g9rtt634u8dmIrU24Rt0YldrDbWJ9bg40em7NI" target="_blank">View</a></span>**                                                </td> 
+
+37 <td>PL-14645</td> 
+
+38 <td>DEL Licensed</td> 
+
+39 <td>DEL</td> 
+
+40 <td>Family Child Care Home</td> 
+
+41 <td>Non-Expiring</td> 
+
+42 <td>Open</td> 
+
+43 <td>04/17/2015**                                                </td> 
+
+44 <td>**                                                </td> 
+
+45 <td>Unknown</td> 
+
+46 <td>PL-289</td> 
+
+47 <td>DEL Licensed</td> 
+
+48 <td>DEL</td> 
+
+49 <td>Family Child Care Home</td> 
+
+50 <td>Non-Expiring</td> 
+
+51 <td>Closed</td> 
+
+52 <td>04/17/2012**                                                </td> 
+
+53 <td>04/16/2015**                                                </td> 
+
+54 <td>Unknown</td> 
+
+55 <td>PL-21680</td> 
+
+56 <td>DEL Licensed</td> 
+
+57 <td>DEL</td> 
+
+58 <td>Family Child Care Home</td> 
+
+59 <td>Non-Expiring</td> 
+
+60 <td>Closed</td> 
+
+61 <td>04/17/2009**                                                </td> 
+
+62 <td>04/16/2012**                                                </td> 
+
+63 <td>Unknown</td> 
+
+64 <td>PL-287</td> 
+
+65 <td>DEL Licensed</td> 
+
+66 <td>DEL</td> 
+
+67 <td>Family Child Care Home</td> 
+
+68 <td>Non-Expiring</td> 
+
+69 <td>Closed</td> 
+
+70 <td>04/17/1991**                                                </td> 
+
+71 <td>04/16/2009**                                                </td> 
+
+72 <td>Unknown</td> 
+
